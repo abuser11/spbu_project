@@ -1,1 +1,3 @@
-Hey, in this file I will initiate the project description
+Hey, in this file I will initiate the project description. 
+
+The project is focused on working with git tools to see how it works.
