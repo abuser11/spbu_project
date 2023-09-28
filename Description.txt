@@ -3,3 +3,5 @@ Hey, in this file I will initiate the project description.
 The project is focused on working with git tools to see how it works.
 
 Old info(
+One ring to bring them all, and in the darkness bind them;
+In the Land of Mordor where the shadows lie.
